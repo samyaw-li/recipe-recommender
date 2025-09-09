@@ -41,14 +41,6 @@ Built using the [Food.com Recipes & Interactions Dataset](https://www.kaggle.com
 
 ---
 
-## 🛠️ Built With
-- [Streamlit](https://streamlit.io/)
-- [scikit-learn](https://scikit-learn.org/)
-- [NLTK](https://www.nltk.org/)
-- [pandas](https://pandas.pydata.org/)
-
----
-
 ## 🖥️ Running the App
 
 ### 1. Clone the repo and install dependencies
@@ -56,7 +48,9 @@ Built using the [Food.com Recipes & Interactions Dataset](https://www.kaggle.com
 git clone https://github.com/samyaw-li/recipe-recommender.git
 cd recipe-recommender
 pip install -r requirements.txt
+```
 
 ### 2. Run the app
 ```bash
 streamlit run app.py
+```
