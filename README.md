@@ -1,4 +1,4 @@
-# 🍲 Recipe Recommender System
+# 🍲 Recipe Recommender App
 
 A **Streamlit app** that suggests recipes based on the ingredients you already have in your pantry.  
 Built using the [Food.com Recipes & Interactions Dataset](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions/data).
